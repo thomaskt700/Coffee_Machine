@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Account and its owner" />
+            <option value="$PROJECT_DIR$/Problems/Accounts" />
+            <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/Books" />
+            <option value="$PROJECT_DIR$/Problems/Cats are robots" />
+            <option value="$PROJECT_DIR$/Problems/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Check if an array is sorted ascending" />
+            <option value="$PROJECT_DIR$/Problems/Circle" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (1)" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (2)" />
+            <option value="$PROJECT_DIR$/Problems/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Problems/Days of week" />
+            <option value="$PROJECT_DIR$/Problems/Decrement all" />
+            <option value="$PROJECT_DIR$/Problems/Does an array contain N" />
+            <option value="$PROJECT_DIR$/Problems/Geometric cube" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Problems/Inner boxes" />
+            <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Problems/Right Rotation" />
+            <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/The index of the first max in an array" />
+            <option value="$PROJECT_DIR$/Problems/The longest ascending sequence" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of an array" />
+            <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/Two numbers never occur next to each other" />
+            <option value="$PROJECT_DIR$/Problems/User" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

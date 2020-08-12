@@ -1,0 +1,41 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Decrement all/out/
+/Problems/Decrement all/out/production/classes/
+/Problems/Does an array contain N/out/
+/Problems/Does an array contain N/out/production/classes/
+/Problems/Geometric cube/out/
+/Problems/Geometric cube/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
+/Problems/Initializing an array of integers/out/
+/Problems/Initializing an array of integers/out/production/classes/
+/Problems/Inner boxes/out/
+/Problems/Inner boxes/out/production/classes/
+/Problems/Points on the 2D plane/out/
+/Problems/Points on the 2D plane/out/production/classes/
+/Problems/Representing time as a class/out/
+/Problems/Representing time as a class/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Sum array elements greater than a value/out/
+/Problems/Sum array elements greater than a value/out/production/classes/
+/Problems/The index of the first max in an array/out/
+/Problems/The index of the first max in an array/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The minimum value of an array/out/
+/Problems/The minimum value of an array/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems/Two numbers never occur next to each other/out/
+/Problems/Two numbers never occur next to each other/out/production/classes/
+/Problems/User/out/
+/Problems/User/out/production/classes/

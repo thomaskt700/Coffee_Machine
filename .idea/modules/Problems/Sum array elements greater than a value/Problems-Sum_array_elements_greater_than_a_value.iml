@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems/Sum array elements greater than a value">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Sum array elements greater than a value/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Sum array elements greater than a value/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems/Sum array elements greater than a value/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
